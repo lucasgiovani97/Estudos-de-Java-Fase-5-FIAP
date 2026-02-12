@@ -15,3 +15,9 @@ Desafio integrado - Fase 5 Capítulo 2:
 
 Exercício de média - Fase 5 Capítulo 2:
 <img width="700" height="485" alt="image" src="https://github.com/user-attachments/assets/fa9e67a7-6015-46e3-92bc-271de155cc76" />
+
+If e Else:
+<img width="925" height="672" alt="image" src="https://github.com/user-attachments/assets/0f30782b-7383-4d7b-9ed8-0829e8ab46aa" />
+
+Switch Case:
+<img width="799" height="814" alt="image" src="https://github.com/user-attachments/assets/af49046a-95e3-4cc2-8691-fd80fd9ecab2" />
