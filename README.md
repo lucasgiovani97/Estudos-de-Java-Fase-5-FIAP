@@ -29,3 +29,8 @@ If e Else:
 Switch Case:
 
 <img width="799" height="814" alt="image" src="https://github.com/user-attachments/assets/af49046a-95e3-4cc2-8691-fd80fd9ecab2" />
+
+Sistema de pedidos de café com Switch:
+
+<img width="967" height="847" alt="image" src="https://github.com/user-attachments/assets/62938de7-6eab-4773-9811-1932cf73d4a2" />
+<img width="959" height="543" alt="image" src="https://github.com/user-attachments/assets/16d7f5d8-0be6-45c6-b763-69df4a536c5f" />
