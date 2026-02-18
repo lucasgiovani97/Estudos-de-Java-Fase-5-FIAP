@@ -34,3 +34,12 @@ Sistema de pedidos de café com Switch:
 
 <img width="967" height="847" alt="image" src="https://github.com/user-attachments/assets/62938de7-6eab-4773-9811-1932cf73d4a2" />
 <img width="959" height="543" alt="image" src="https://github.com/user-attachments/assets/16d7f5d8-0be6-45c6-b763-69df4a536c5f" />
+
+Estrutura de repetição While:
+
+<img width="964" height="284" alt="image" src="https://github.com/user-attachments/assets/26b7db01-b4ef-4d64-96f1-1dff912f5d4f" />
+
+Desafio While - encontrar número aleatório:
+
+<img width="966" height="727" alt="image" src="https://github.com/user-attachments/assets/41ed6b31-9463-4fea-8f07-6d3bce1029db" />
+
