@@ -43,3 +43,18 @@ Desafio While - encontrar número aleatório:
 
 <img width="966" height="727" alt="image" src="https://github.com/user-attachments/assets/41ed6b31-9463-4fea-8f07-6d3bce1029db" />
 
+Exercício While - App de pedidos de suco:
+
+<img width="957" height="879" alt="image" src="https://github.com/user-attachments/assets/706bae4d-1c5d-42d3-8410-9c8d27274768" />
+
+<img width="961" height="710" alt="image" src="https://github.com/user-attachments/assets/39fe1340-71f1-4efa-8ec1-75393fca320b" />
+
+Contador Do-While:
+
+<img width="490" height="219" alt="image" src="https://github.com/user-attachments/assets/fef1a857-b734-40f0-9d7a-65f9a8c1ae03" />
+
+Exercício Do-While:
+
+<img width="963" height="819" alt="image" src="https://github.com/user-attachments/assets/4a829ed6-f66e-4b0c-b28d-3c30971423e2" />
+
+<img width="962" height="604" alt="image" src="https://github.com/user-attachments/assets/00feedce-75e6-4a12-aa51-a6cb41e6ae60" />
